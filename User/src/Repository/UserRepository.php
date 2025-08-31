@@ -2,8 +2,8 @@
 
 namespace Repository;
 
+use Entity\User;
 use Repository\Contracts\UserRepositoryInterface;
-use User;
 
 class UserRepository implements UserRepositoryInterface
 {

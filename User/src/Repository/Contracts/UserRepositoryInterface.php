@@ -2,7 +2,7 @@
 
 namespace Repository\Contracts;
 
-use User;
+use Entity\User;
 
 interface UserRepositoryInterface
 {
